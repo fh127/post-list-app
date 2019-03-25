@@ -29,7 +29,7 @@ mobile test repository
    In general this design was based on SOLID to try getting a clean, mantanable and scalable app.
    
  * Module structure:
-   - *app*: contains the configurations for app life cicle.
+   - *app*: contains the configurations for app life cycle.
    - *business*: contains the business logic related with requirements.
    - *di*: contains th configurations related with Dependency injection.
    - *model*: contains the Data source operations handling (cache and services)
