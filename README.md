@@ -31,7 +31,7 @@ mobile test repository
  * Module structure:
    - *app*: contains the configurations for app life cycle.
    - *business*: contains the business logic related with requirements.
-   - *di*: contains th configurations related with Dependency injection.
+   - *di*: contains the configurations related with Dependency injection.
    - *model*: contains the Data source operations handling (cache and services)
    - *utils*: contains utilities and functions to reuse in the app modules.
    - *presentation*: contains logic to handle view components and iteraction logic with business layer and data layer.
