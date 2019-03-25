@@ -1,10 +1,15 @@
 # post-list-app
 mobile test repository 
 
+
+
 # Preconditions
 * Git
 * Android Studio last stable release
 * JDK 8
+* Android Devices >=  5.1 OS version (according default selection for IDE)
+![alt text](https://drive.google.com/open?id=1hw0CSXRnk4JpGe0iBJZ4FXgAZsxXJMSy)
+
 
 # Intructions
 * Download the repository(git clone https://github.com/fh127/post-list-app.git).
