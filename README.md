@@ -1,2 +1,13 @@
 # post-list-app
-mobile test repository
+mobile test repository 
+
+# Intructions
+
+# Architecture
+
+# Libraries
+
+# Demo
+
+
+
