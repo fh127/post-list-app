@@ -11,7 +11,7 @@ mobile test repository
   https://drive.google.com/open?id=1hw0CSXRnk4JpGe0iBJZ4FXgAZsxXJMSy
 
 
-# Intructions
+# Instructions
 * Download the repository(git clone https://github.com/fh127/post-list-app.git).
 * Open Android Studio.
 * Install the necessary dependencies.
