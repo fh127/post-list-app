@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="default_spacing_small">8dp</dimen>
+    <dimen name="default_spacing_medium">8dp</dimen>
+    <dimen name="default_spacing_huge">128dp</dimen>
+    <dimen name="margin_small">20dp</dimen>
+    <dimen name="margin_xsmall">10dp</dimen>
+    <dimen name="item_height">300dp</dimen>
+    <dimen name="comment_height">150dp</dimen>
+</resources>
