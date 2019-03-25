@@ -37,18 +37,22 @@ mobile test repository
    - *presentation*: contains logic to handle view components and iteraction logic with business layer and data layer.
    
 # Libraries
-  - *Rooms(persistence library provides an abstraction layer over SQLite)*: Local storage and cache handling.
+  * *Rooms(persistence library provides an abstraction layer over SQLite)*: Local storage and cache handling.
      https://developer.android.com/jetpack/androidx/releases/room
-  - *Retrofit(type-safe HTTP client)*: service api handling.
+  * *Retrofit(type-safe HTTP client)*: service api handling.
      https://square.github.io/retrofit/
-  - *RxJava/RxAndroid(library for composing asynchronous and event-based programs by using observable sequences)*: background task and       reactive events.
+  * *RxJava/RxAndroid(library for composing asynchronous and event-based programs by using observable sequences)*: background task and       reactive events.
      https://github.com/ReactiveX/RxJava
-  - *Dagger(dependency injection framework):* Dependency injection. 
+  * *Dagger(dependency injection framework):* Dependency injection. 
      https://google.github.io/dagger/
-  - *Android x(open-source project that the Android team uses to develop, test, package, version and release libraries within Jetpack)*
+  * *Android x(open-source project that the Android team uses to develop, test, package, version and release libraries within Jetpack)*
     https://developer.android.com/jetpack/androidx
-     
-  
+    
+# Improvements:
+  * Implement Unit test cases for different modules/layers
+  * Implement UI using fragments
+  * Improve the adapter logic to reuse it.
+    
 # Demo
 * https://drive.google.com/open?id=12_i0_b8ogfsR8oZWQMVXifj6v0H4vJ2H
 * https://drive.google.com/open?id=1RrJ3lnOF9RO4F0PckMDUhaOSt1xz-tD3
