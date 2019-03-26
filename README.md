@@ -26,7 +26,7 @@ mobile test repository
    -  MVP (Model View Presenter)
    -  Inheritance and interfaces
    
-   In general this design was based on SOLID to try getting a clean, mantanable and scalable app.
+   In general this design was based on SOLID to try getting a clean, maintainable and scalable app.
    
  * Module structure:
    - *app*: contains the configurations for app life cycle.
